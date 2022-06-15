@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides information on the nature and purpose
+  of the course, meeting times, materials, requirements, grading, exams, and tips
+  for success in the class.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -28,7 +31,7 @@ The course draws upon a Reading Packet containing cases, required readings, and 
 Course Projects, Tasks, and Grading
 -----------------------------------
 
-The course is organized so that each class revolves around a case discussion and a theory discussion. Copies of the slides for the theory discussions will be available on the [lecture notes]({{< baseurl >}}/pages/lecture-notes) page.
+The course is organized so that each class revolves around a case discussion and a theory discussion. Copies of the slides for the theory discussions will be available on the {{% resource_link 7fa517e5-a3d9-8d75-03b8-577429bbc07c "lecture notes" %}} page.
 
 During the semester students are asked to:
 

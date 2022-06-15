@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the midterm and final exams for the course.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -27,7 +28,7 @@ EXAMS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Midterm ([PDF]({{< baseurl >}}/resources/15840_midterm))
+Midterm ({{% resource_link 0574b3cc-8727-a433-70a0-84d7df723875 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +37,7 @@ Midterm ([PDF]({{< baseurl >}}/resources/15840_midterm))
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Final ([PDF]({{< baseurl >}}/resources/15840_final))
+Final ({{% resource_link 9b76b6b7-d58e-a973-a3d0-51f4c7f27933 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
