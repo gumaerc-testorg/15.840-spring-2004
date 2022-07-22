@@ -1,5 +1,14 @@
 ---
 content_type: page
+description: Project where students will form a group of 3 or 4 and analyze, improve,
+  and test one ad. They will be asked to use what they have learned in the class and
+  prepare a 5-minute presentation for class based on their analysis and suggest an
+  improvised version of the ad and test the new ad on the appropriate target customers.
+  A fuzzy task where parameters are not well specified. Short paper and presentations
+  due from students.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 046b963c-d8b7-71a8-f355-1757c09cb552
 ---
